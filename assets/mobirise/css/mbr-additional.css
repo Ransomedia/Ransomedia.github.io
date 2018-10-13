@@ -3287,17 +3287,17 @@ body {
 }
 .cid-qSNIySaltE .nav-tabs .nav-link:hover {
   cursor: pointer;
-  background-color: #149dcc;
+  background-color: #22bd40;
 }
 .cid-qSNIySaltE .nav-tabs .nav-link.active {
   font-weight: 500;
   color: #ffffff;
   font-style: normal;
-  background-color: #149dcc;
-  border-color: #149dcc;
+  background-color: #22bd40;
+  border-color: #22bd40;
 }
 .cid-qSNIySaltE .nav-tabs .nav-link.active:hover {
-  background-color: #149dcc;
+  background-color: #22bd40;
 }
 .cid-qSNIySaltE p {
   color: #ffffff;
